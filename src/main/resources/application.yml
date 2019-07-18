@@ -1,0 +1,13 @@
+server:
+    port: 8081
+person:
+    username: 张三
+    age: 18
+    boss: true
+    map: {k1:v1,k2:12}
+    list:
+      -lisi
+      -zhaoliu
+    dog:
+      name: 小狗
+      age: 23
